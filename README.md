@@ -31,4 +31,4 @@ This is a list of open source tools and reference architectures for data enginee
 
 ## About
 
-Idea borrowed from [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering).
+Inspired by [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering), [awesome-bigdata](https://github.com/0xnr/awesome-bigdata), [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop#readme), [awesome-streaming](https://github.com/manuzhang/awesome-streaming#readme), [awesome-spark](https://github.com/awesome-spark/awesome-spark#readme).
