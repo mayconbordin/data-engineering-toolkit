@@ -12,9 +12,23 @@ This is a list of open source tools and reference architectures for data enginee
  - Airbyte
  - Singer
 
+# Data Processing
+
+## Batch Processing
+
+## Stream Processing
 
 # Orchestration
 
  - Apache Airflow
  - Dagster
  - Prefect
+
+# Data Quality
+
+ -  Great Expectations
+
+
+## About
+
+Idea borrowed from [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering).
