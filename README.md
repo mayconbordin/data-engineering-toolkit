@@ -1,6 +1,6 @@
 # data-engineering-toolkit
 
-This is a list of open source tools and reference architectures for data engineering professionals.
+This is a list of **open source** tools and reference architectures for data engineering professionals.
 
 <!--- add comparison table for each category --->
 
