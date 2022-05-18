@@ -18,11 +18,13 @@ This is a list of **open source** tools and reference architectures for data eng
 
 ## Stream Processing
 
-# Orchestration
+# Workflow
 
  - Apache Airflow
  - Dagster
  - Prefect
+ - [Kedro](https://kedro.readthedocs.io/en/latest/) Kedro is a framework that makes it easy to build robust and scalable data pipelines by providing uniform project templates, data abstraction, configuration and pipeline assembly.
+
 
 # Data Quality
 
