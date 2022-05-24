@@ -23,12 +23,18 @@ This is a list of **open source** tools and reference architectures for data eng
  - Apache Airflow
  - Dagster
  - Prefect
+ - [Flyte](https://flyte.org/)
  - [Kedro](https://kedro.readthedocs.io/en/latest/) Kedro is a framework that makes it easy to build robust and scalable data pipelines by providing uniform project templates, data abstraction, configuration and pipeline assembly.
 
+# Data Governance
+## Data Catalog
 
-# Data Quality
+ - [Open Metadata](https://open-metadata.org/)
+
+## Data Quality
 
  -  Great Expectations
+ -  [re_data](https://www.getre.io/)
 
 
 ## About
