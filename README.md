@@ -24,15 +24,16 @@ This is a list of **open source** tools and reference architectures for data eng
 
 ## Databases
 ### Relational
-	* [RQLite](https://github.com/rqlite/rqlite) Replicated SQLite using the Raft consensus protocol
-	* [MySQL](https://www.mysql.com/) The world's most popular open source database.
-		* [TiDB](https://github.com/pingcap/tidb) TiDB is a distributed NewSQL database compatible with MySQL protocol
-		* [Percona XtraBackup](https://www.percona.com/software/mysql-database/percona-xtrabackup) Percona XtraBackup is a free, open source, complete online backup solution for all versions of Percona Server, MySQL® and MariaDB®
-		* [mysql_utils](https://github.com/pinterest/mysql_utils) Pinterest MySQL Management Tools
-	* [MariaDB](https://mariadb.org/) An enhanced, drop-in replacement for MySQL.
-	* [PostgreSQL](https://www.postgresql.org/) The world's most advanced open source database.
-	* [Amazon RDS](https://aws.amazon.com/rds/) Amazon RDS makes it easy to set up, operate, and scale a relational database in the cloud. 
-	* [Crate.IO](https://crate.io/) Scalable SQL database with the NOSQL goodies.
+
+* [RQLite](https://github.com/rqlite/rqlite) Replicated SQLite using the Raft consensus protocol
+* [MySQL](https://www.mysql.com/) The world's most popular open source database.
+	* [TiDB](https://github.com/pingcap/tidb) TiDB is a distributed NewSQL database compatible with MySQL protocol
+	* [Percona XtraBackup](https://www.percona.com/software/mysql-database/percona-xtrabackup) Percona XtraBackup is a free, open source, complete online backup solution for all versions of Percona Server, MySQL® and MariaDB®
+	* [mysql_utils](https://github.com/pinterest/mysql_utils) Pinterest MySQL Management Tools
+* [MariaDB](https://mariadb.org/) An enhanced, drop-in replacement for MySQL.
+* [PostgreSQL](https://www.postgresql.org/) The world's most advanced open source database.
+* [Amazon RDS](https://aws.amazon.com/rds/) Amazon RDS makes it easy to set up, operate, and scale a relational database in the cloud. 
+* [Crate.IO](https://crate.io/) Scalable SQL database with the NOSQL goodies.
 
 ### Key-Value
 	* [Redis](https://redis.io/) An open source, BSD licensed, advanced key-value cache and store.
@@ -96,6 +97,7 @@ This is a list of **open source** tools and reference architectures for data eng
 	* [TimescaleDB](https://www.timescale.com/): Built as an extension on top of PostgreSQL, TimescaleDB is a time-series SQL database providing fast analytics, scalability, with automated data management on a proven storage engine.
 
 ## Serialization format
+
 * [Apache Avro](https://avro.apache.org) Apache Avro™ is a data serialization system
 * [Apache Parquet](https://parquet.apache.org) Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 multi-processor, multi-core machines
