@@ -35,6 +35,7 @@ This is a list of **open source** tools and reference architectures for data eng
 
  -  Great Expectations
  -  [re_data](https://www.getre.io/)
+ -  [Soda](https://github.com/sodadata/soda-core)
 
 # Control Plane
  - [Kuwala](https://github.com/kuwala-io/kuwala) is the data workspace for BI analysts and engineers enabling you to build powerful analytics workflows together. We are set out to bring state-of-the-art data engineering tools you love, such as Airbyte, dbt and Prefect together in one intuitive interface built with React Flow.
