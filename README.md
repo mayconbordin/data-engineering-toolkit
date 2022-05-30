@@ -23,16 +23,15 @@ This is a list of **open source** tools and reference architectures for data eng
 # Serialization format
 * [Apache Avro](https://avro.apache.org) Apache Avro™ is a data serialization system
 * [Apache Parquet](https://parquet.apache.org) Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
-	* [Snappy](https://github.com/google/snappy) A fast compressor/decompressor. Used with Parquet
-	* [PigZ](https://zlib.net/pigz/) A parallel implementation of gzip for modern
 multi-processor, multi-core machines
 * [Apache ORC](https://orc.apache.org/) The smallest, fastest columnar storage for Hadoop workloads 
 * [Apache Thrift](https://thrift.apache.org) The Apache Thrift software framework, for scalable cross-language services development
 * [ProtoBuf](https://github.com/protocolbuffers/protobuf) Protocol Buffers - Google's data interchange format
 * [SequenceFile](https://wiki.apache.org/hadoop/SequenceFile) SequenceFile is a flat file consisting of binary key/value pairs. It is extensively used in MapReduce as input/output formats
 * [Kryo](https://github.com/EsotericSoftware/kryo) Kryo is a fast and efficient object graph serialization framework for Java
-
 * [Apache Iceberg](https://iceberg.apache.org/) Apache Iceberg is an open table format for huge analytic datasets. Iceberg adds tables to Presto and Spark that use a high-performance format that works just like a SQL table.
+* [Apache Hudi](https://hudi.apache.org/)
+* [Delta Lake](https://delta.io/)
 
 # Workflow
 
